@@ -1,0 +1,19 @@
+node liri.js: 
+node liri.js: movie-this top gun
+
+----------
+Title: Top Gun Release Year: 16 May 1986 Rating: 6.9 Rotten Tomatos bogus rating: 54% Country where produced: USA Language: English Plot: As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom. Actors: Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards 
+----------
+node liri.js: contagion
+node liri.js: star wars
+node liri.js: movie-this contagion
+
+----------
+Title: Contagion Release Year: 09 Sep 2011 Rating: 6.6 Rotten Tomatos bogus rating: 84% Country where produced: USA, United Arab Emirates Language: English, Mandarin, Cantonese Plot: Healthcare professionals, government officials and everyday people find themselves in the midst of a worldwide epidemic as the CDC works to find a cure. Actors: Gwyneth Paltrow, Tien You Chui, Josie Ho, Daria Strokous 
+----------
+node liri.js: movie-this star wars
+
+----------
+Title: Star Wars: Episode IV - A New Hope Release Year: 25 May 1977 Rating: 8.6 Rotten Tomatos bogus rating: 93% Country where produced: USA Language: English Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader. Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing 
+----------
+node liri.js: spotify-this-song scrawny
